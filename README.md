@@ -2,7 +2,7 @@
 
 Ruipelo is a simple HTML5 skeleton template. I did it for my personal use but other people are free to use it too.
 
-**Download:** https://Frollio.github.io/Ruipelo-HTML-skeleton/ruipelo-html-skeleton.html
+**Download:** https://Frollio.github.io/Ruipelo-HTML-skeleton/ruipelo.html
 
 ## Some notes about using Ruipelo
 
