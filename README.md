@@ -16,7 +16,7 @@ If you use normalize.css you need to download it first. You can get it from Nico
 
 ### Font Awesome
 
-The Font Awesome kit link in the <head> won't work on your site. Get your own link from here: https://fontawesome.com/.
+The Font Awesome kit link won't work on any other site than mine. Get your own link from here: https://fontawesome.com/.
 
 ### CSS Classes
 
